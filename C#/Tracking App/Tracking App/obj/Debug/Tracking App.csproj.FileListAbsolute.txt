@@ -1,0 +1,12 @@
+C:\Users\Profesori\source\repos\Tracking App\Tracking App\bin\Debug\Tracking App.exe.config
+C:\Users\Profesori\source\repos\Tracking App\Tracking App\bin\Debug\Tracking App.exe
+C:\Users\Profesori\source\repos\Tracking App\Tracking App\bin\Debug\Tracking App.pdb
+C:\Users\Profesori\source\repos\Tracking App\Tracking App\obj\Debug\Tracking App.csproj.AssemblyReference.cache
+C:\Users\Profesori\source\repos\Tracking App\Tracking App\obj\Debug\Tracking App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesori\source\repos\Tracking App\Tracking App\obj\Debug\Tracking_App.Form1.resources
+C:\Users\Profesori\source\repos\Tracking App\Tracking App\obj\Debug\Tracking_App.Properties.Resources.resources
+C:\Users\Profesori\source\repos\Tracking App\Tracking App\obj\Debug\Tracking App.csproj.GenerateResource.cache
+C:\Users\Profesori\source\repos\Tracking App\Tracking App\obj\Debug\Tracking App.csproj.CoreCompileInputs.cache
+C:\Users\Profesori\source\repos\Tracking App\Tracking App\obj\Debug\Tracking App.exe
+C:\Users\Profesori\source\repos\Tracking App\Tracking App\obj\Debug\Tracking App.pdb
+C:\Users\Profesori\source\repos\Tracking App\Tracking App\obj\Debug\Tracking_App.functional.resources

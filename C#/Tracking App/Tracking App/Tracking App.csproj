@@ -59,6 +59,7 @@
     <Compile Include="functional.Designer.cs">
       <DependentUpon>functional.cs</DependentUpon>
     </Compile>
+    <Compile Include="util.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">

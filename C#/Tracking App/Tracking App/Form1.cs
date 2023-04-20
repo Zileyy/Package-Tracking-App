@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace Tracking_App
 {
     public partial class Form1 : Form
@@ -30,9 +31,13 @@ namespace Tracking_App
 
         private void login_Click(object sender, EventArgs e)
         {
-            functional instance = new functional();
-            instance.Show();
-      
+            dbcred cred = new dbcred();
+
+            string username = idBox.Text.ToString();
+            string password = passBox.Text.ToString();
+            cred.login(username, password); 
+            
+            
 
 
         }

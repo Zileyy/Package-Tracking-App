@@ -22,6 +22,11 @@ def get_airport():
     #Checking and generating new airport again if airport sent is same as the airport package needs to be
     while from_loc == to_loc:
         to_loc = df['Name'][rnd.randrange(0,rng_max-1)]
+        
+    #Checking if theres " ' " in name and replace it with ''
+    if "'" in from_loc: from_loc = from_loc.replace("'",'\'\'')
+    if "'" in to_loc:  to_loc = to_loc.replace("'",'\'\'')
+    if "'" in curr_loc: curr_loc = curr_loc.replace("'",'\'\'')
     
     #Return
     return from_loc, to_loc , curr_loc

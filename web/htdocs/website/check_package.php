@@ -26,8 +26,7 @@ while ($obj = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_BOTH)) {
     $_POST['tracking_number'] = $tr_num;
     
     }
-    
-
+  sqlsrv_close($conn)
 ?>
 
 <!DOCTYPE html>

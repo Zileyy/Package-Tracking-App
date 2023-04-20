@@ -10,3 +10,14 @@ C:\Users\Profesori\source\repos\Tracking App\Tracking App\obj\Debug\Tracking App
 C:\Users\Profesori\source\repos\Tracking App\Tracking App\obj\Debug\Tracking App.exe
 C:\Users\Profesori\source\repos\Tracking App\Tracking App\obj\Debug\Tracking App.pdb
 C:\Users\Profesori\source\repos\Tracking App\Tracking App\obj\Debug\Tracking_App.functional.resources
+D:\gits\tracking\C#\Tracking App\Tracking App\bin\Debug\Tracking App.exe.config
+D:\gits\tracking\C#\Tracking App\Tracking App\bin\Debug\Tracking App.exe
+D:\gits\tracking\C#\Tracking App\Tracking App\bin\Debug\Tracking App.pdb
+D:\gits\tracking\C#\Tracking App\Tracking App\obj\Debug\Tracking App.csproj.AssemblyReference.cache
+D:\gits\tracking\C#\Tracking App\Tracking App\obj\Debug\Tracking_App.Form1.resources
+D:\gits\tracking\C#\Tracking App\Tracking App\obj\Debug\Tracking_App.functional.resources
+D:\gits\tracking\C#\Tracking App\Tracking App\obj\Debug\Tracking_App.Properties.Resources.resources
+D:\gits\tracking\C#\Tracking App\Tracking App\obj\Debug\Tracking App.csproj.GenerateResource.cache
+D:\gits\tracking\C#\Tracking App\Tracking App\obj\Debug\Tracking App.csproj.CoreCompileInputs.cache
+D:\gits\tracking\C#\Tracking App\Tracking App\obj\Debug\Tracking App.exe
+D:\gits\tracking\C#\Tracking App\Tracking App\obj\Debug\Tracking App.pdb

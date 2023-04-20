@@ -22,12 +22,14 @@ namespace Tracking_App
         }
 
         //Function that writes data from databse for provided Tracking Number
-        public void getDBInfoo(string tracking_number)
+        public void getDBInfoo(string ean)
         {
 
             //Get info for tracking number from DB, assign values to list reader
             dbcred cred = new dbcred();
-            var reader = cred.elements(tracking_number);
+            var reader = cred.elements(ean);
+
+            Console.Write("aa");
 
             //Assign values from list to their text boxes
             cargofield.Text = String.Format("{0}", reader[1]);
@@ -73,12 +75,13 @@ namespace Tracking_App
         {
             try
             {
-                string ean = eanfield.Text;
+                string ean = eanfield.Text.ToString();
                 getDBInfoo(ean);
             }
             catch
             {
                 MessageBox.Show("Error occured reading DB", "Error");
+                
             }
         
 
@@ -107,10 +110,10 @@ namespace Tracking_App
             try
             {
                 string format = "yyyy-MM-dd";
-                DateTime datesent =Convert.ToDateTime(write_sentdatefield.Text.ToString());
+                DateTime datesent = Convert.ToDateTime(write_sentdatefield.Text.ToString());
                 DateTime datedeliver = Convert.ToDateTime(write_deliverdatefield.Text.ToString());
 
-                
+
 
                 dbcred cred = new dbcred();
                 cred.writeToDB(

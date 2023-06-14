@@ -17,10 +17,10 @@ namespace Tracking_App
         
         public dbcred() {
             //Database credentials
-            builder.DataSource = "DESKTOP-JKO0N2O\\TEST_ONE";
+            builder.DataSource = "WINATUH_NAME";
             builder.UserID = "admin";
-            builder.Password = "testadmin";
-            builder.InitialCatalog = "maindb";
+            builder.Password = "ADMIN_PASSWORD";
+            builder.InitialCatalog = "DATABASE_NAME";
 
             
         }

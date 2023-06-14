@@ -29,6 +29,8 @@ namespace Tracking_App
 
         }
 
+
+        //Attempts to login with user from our Database
         private void login_Click(object sender, EventArgs e)
         {
             dbcred cred = new dbcred();

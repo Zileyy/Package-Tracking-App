@@ -4,8 +4,8 @@ import pyodbc
 
 #Connecting do MsSql DB with windows auth
 cnxn = pyodbc.connect("Driver={SQL Server};"
-                      "Server=DESKTOP-JKO0N2O\TEST_ONE;"
-                      "Database=maindb;"
+                      "Server=WINAUTH_NAME;"
+                      "Database=DB_NAME;"
                       "Trusted_Connection=yes;")
 
 cursor = cnxn.cursor()
